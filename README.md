@@ -7,5 +7,5 @@ This is a feed reader web application built by udacity, using html, css and java
 
 ## Download And Navigation
 
-The application can be download by clicking the clone or download button and selecting download.
-Once dowloaded the application can be opened in the browser it has a nav menu that can be used cycle through the 4 different feeds. 
+The application can be download by clicking the clone or download button and selecting download zip.
+Once dowloaded extract the files and open the index.html file in the browser the application can be opened in any browser it has a nav menu that can be used cycle through the 4 different feeds. 
